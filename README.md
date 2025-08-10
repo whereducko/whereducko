@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/whereducko/whereducko/refs/heads/main/assets/2.png">
+<!-- <img src="https://raw.githubusercontent.com/whereducko/whereducko/refs/heads/main/assets/2.png" width=1000px height=400px> -->
+
+## Hi! My name is ...
 
 ### Skills
 
